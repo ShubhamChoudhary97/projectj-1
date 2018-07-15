@@ -1,3 +1,1 @@
-# projectj
-Learning fork
-PROJECTJ README
+some change
